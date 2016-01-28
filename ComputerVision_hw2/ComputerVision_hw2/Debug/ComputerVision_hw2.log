@@ -1,0 +1,40 @@
+﻿生成启动时间为 2015/12/29 19:12:01。
+     1>项目“C:\Users\Aaron\documents\visual studio 2013\projects\ComputerVision_hw2\ComputerVision_hw2\ComputerVision_hw2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(219): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(246): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(250): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(317): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(344): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(348): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(364): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(415): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(507): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(588): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(840): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(856): warning C4309: “=”: 截断常量值
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(961): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(963): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(909): warning C4101: “histmin”: 未引用的局部变量
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(908): warning C4101: “scale”: 未引用的局部变量
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(907): warning C4101: “histdst”: 未引用的局部变量
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(904): warning C4101: “histframesrc”: 未引用的局部变量
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(904): warning C4101: “histframedst”: 未引用的局部变量
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(909): warning C4101: “histmax”: 未引用的局部变量
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(1056): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(1057): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(1001): warning C4101: “scale”: 未引用的局部变量
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(998): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(998): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\aaron\documents\visual studio 2013\projects\computervision_hw2\computervision_hw2\main.cpp(1119): warning C4305: “参数”: 从“double”到“float”截断
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aaron\documents\visual studio 2013\Projects\ComputerVision_hw2\Debug\ComputerVision_hw2.exe" /INCREMENTAL /NOLOGO opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_core2411d.lib opencv_features2d2411d.lib opencv_flann2411d.lib opencv_gpu2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_legacy2411d.lib opencv_ml2411d.lib opencv_nonfree2411d.lib opencv_objdetect2411d.lib opencv_ts2411d.lib opencv_video2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aaron\documents\visual studio 2013\Projects\ComputerVision_hw2\Debug\ComputerVision_hw2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aaron\documents\visual studio 2013\Projects\ComputerVision_hw2\Debug\ComputerVision_hw2.lib" /MACHINE:X86 Debug\main.obj
+         ComputerVision_hw2.vcxproj -> C:\Users\Aaron\documents\visual studio 2013\Projects\ComputerVision_hw2\Debug\ComputerVision_hw2.exe
+     1>已完成生成项目“C:\Users\Aaron\documents\visual studio 2013\projects\ComputerVision_hw2\ComputerVision_hw2\ComputerVision_hw2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.56
